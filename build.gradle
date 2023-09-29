@@ -29,8 +29,5 @@ test {
 sonarqube {
     properties {
         property 'sonar.host.url', 'https://sonar.infra.getlenses.co.uk'
-        property 'sonar.login', 'admin'
-        property 'sonar.password', 'Estartus1!'
-
     }
 }
